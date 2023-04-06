@@ -36,13 +36,13 @@ const colors = document.querySelectorAll('.color');
 var info = [
 
     {
-        src: "images/products/KN95.png"
+        src: "images/products/kn95.png"
     },
     {
         src: "images/products/duck.png"
     },
     {
-        src: "images/products/N95.png"
+        src: "images/products/n95.png"
     },
     {
         src: "images/products/headloop.png"
